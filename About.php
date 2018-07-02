@@ -20,11 +20,59 @@ include 'header.php';
         </div>
     </div>
 
-    
+    <div class="section section-our-team-freebie">
+        <div class="parallax filter filter-color-black">
+            <div class="image" style="background-image:url('assets/img/Refinery.jpg')">
+            </div>
+            <div class="container">
+                <div class="content">
+                    <div class="row">
+                        <div class="title-area">
+                            <h2>COMPANY OVERVIEW</h2>
+                            <div class="separator separator-danger">✻</div>
+                            <p class="description">FS PETROLEUM PLUS TRADERS INC. was formed in October, 2012 to primarily address
+the needs of sophisticated customers for alternative source of high quality lubricants, fuels
+and asphalts at very competitive prices. We are essentially dedicated to the manufacture of
+lubricants as specified by the customers. We are capable of providing special fuel oil blends
+to cater to the client’s requirements. Our company, likewise, provide contract blending, filling
+and packaging. We are a flexible company which can easily fit and adjust to the needs of our
+customers. <br> <br>
+Our company offers you a complete range of lubricants for Automotive, Industrial and Marine
+application. We avail of the latest technology from the foremost additive global
+manufacturers. In response to our clients need for fuels, we have also expanded to providing
+quality fuels such as bunker fuel oils, special fuel oils, as well as automotive and industrial
+diesel oil.</p>
+                        </div>
+
+                        <div class="title-area">
+                            <h2>OUR MISSION</h2>
+                            <div class="separator separator-danger">✻</div>
+                            <p class="description">We provide work environments where our employees can meet their potential and thrive in
+atmosphere of excellence. We strive to be the Industry standard in service to customers. We
+maintain a superior level of integrity in interactions with business partners and associates.
+We appreciate our achieved success and we conduct our business as model corporate
+citizens.</p>
+                        </div>
+                        <div class="title-area">
+                            <h2>QUALITY POLICY</h2>
+                            <div class="separator separator-danger">✻</div>
+                            <p class="description">To assure that International standards are met, the company invested on the state of the art
+laboratory equipment and instrument to carry out rigorous quality control measures.
+Likewise, the company is committed to operate under a quality management system to
+assure you, our customers, on the consistency and quality of our products and services. We
+do more than test our lubricants; we constantly manufacture quality into our products.</p>
+                        </div>
+                    </div>
+
+                    
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="section section-our-team-freebie">
         <div class="parallax filter filter-color-black">
-            <div class="image" style="background-image:url('assets/img/header-2.jpeg')">
+            <div class="image" style="background-image:url('assets/img/Rep.jpg')">
             </div>
             <div class="container">
                 <div class="content">
@@ -47,9 +95,9 @@ include 'header.php';
                                                     <img alt="..." class="img-circle" src="assets/img/faces/face_1.jpg"/>
                                                 </div>
                                                 <div class="description">
-                                                    <h3 class="title">Tina</h3>
+                                                    <h3 class="title">name</h3>
                                                     <p class="small-text">CEO / Co-Founder</p>
-                                                    <p class="description">I miss the old Kanye I gotta say at that time I’d like to meet Kanye And I promise the power is in the people and I will use the power given by the people to bring everything I have back to the people.</p>
+                                                    <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -61,9 +109,9 @@ include 'header.php';
                                                     <img alt="..." class="img-circle" src="assets/img/faces/face_4.jpg"/>
                                                 </div>
                                                 <div class="description">
-                                                    <h3 class="title">Andrew</h3>
+                                                    <h3 class="title">name</h3>
                                                     <p class="small-text">Product Designer</p>
-                                                    <p class="description">I miss the old Kanye I gotta say at that time I’d like to meet Kanye And I promise the power is in the people and I will use the power given by the people to bring everything I have back to the people.</p>
+                                                    <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -75,9 +123,9 @@ include 'header.php';
                                                     <img alt="..." class="img-circle" src="assets/img/faces/face_3.jpg"/>
                                                 </div>
                                                 <div class="description">
-                                                    <h3 class="title">Michelle</h3>
+                                                    <h3 class="title">name</h3>
                                                     <p class="small-text">Marketing Hacker</p>
-                                                    <p class="description">I miss the old Kanye I gotta say at that time I’d like to meet Kanye And I promise the power is in the people and I will use the power given by the people to bring everything I have back to the people.</p>
+                                                    <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -128,17 +176,15 @@ include 'header.php';
 
             <div class="tab-content">
                 <div class="tab-pane active" id="testimonial1">
-                    <p class="description">
-                        And I used a period because contrary to popular belief I strongly dislike exclamation points! We no longer have to be scared of the truth feels good to be home In Roman times the artist would contemplate proportions and colors. Now there is only one important color... Green I even had the pink polo I thought I was Kanye I promise I will never let the people down. I want a better life for all!
+                    <p class="description"> testing 1
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
                     </p>
                 </div>
-                <div class="tab-pane" id="testimonial2">
-                    <p class="description">Green I even had the pink polo I thought I was Kanye I promise I will never let the people down. I want a better life for all! And I used a period because contrary to popular belief I strongly dislike exclamation points! We no longer have to be scared of the truth feels good to be home In Roman times the artist would contemplate proportions and colors. Now there is only one important color...
-                    </p>
+                <div class="tab-pane" id="testimonial2"> 
+                    <p class="description"> testing 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop.</p>
                 </div>
-                <div class="tab-pane" id="testimonial3">
-                    <p class="description"> I used a period because contrary to popular belief I strongly dislike exclamation points! We no longer have to be scared of the truth feels good to be home In Roman times the artist would contemplate proportions and colors. The 'Gaia' team did a great work while we were collaborating. They provided a vision that was in deep connection with our needs and helped us achieve our goals.
-                    </p>
+                <div class="tab-pane" id="testimonial3"> 
+                    <p class="description"> testing 3 Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
                 </div>
 
             </div>

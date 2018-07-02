@@ -7,11 +7,11 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="#">Home</a>
+                                    <a href="http://localhost/Petroleum/">Home</a>
                                 </li>
                                 
                                 <li>
-                                    <a href="#">About Us</a>
+                                    <a href="http://localhost/Petroleum/About.php">About Us</a>
                                 </li>
                             </ul>
                         </nav>

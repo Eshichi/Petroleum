@@ -72,8 +72,8 @@ include 'header.php';
                 <div class="col-md-4">
                     <h3 class="text-center">NYTRO GEMINI X (IEC 60296, ED. 4) - HIGH GRADE</h3>
                     <div class="card card-blog">
-                        <a target="_blank" href="examples/about-us.html" class="header">
-                            <img src="assets/img/Products/gemini_x.jpg" class="image-header image-full">
+                        <a target="" href="" class="header" data-toggle="modal" data-target="#myModal">
+                            <img src="assets/img/Products/gemini_x.jpg" class="image-header image-full" >
                         </a>
                     </div>
                     <br>
@@ -141,9 +141,12 @@ include 'header.php';
     </div>
 
     
+  
 
 
 
 <?php
+include 'Modals.php';
 include 'footer.php';
+
 ?>

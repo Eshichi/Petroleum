@@ -109,14 +109,17 @@ include 'header.php';
                         <h5 class="subtitle text-gray"> Talk To Us</h5>
                         <h2>Contact Us</h2>
                         <div class="separator separator-danger">✻</div>
-                        <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                        <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                     </div>
 
                 <div class="social-buttons">
-                    <button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button>
-                    <button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button>
-                    <button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button>
-                    <button class="btn btn-social btn-simple"><i class="fa fa-google" ></i></button>
+                     <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button></a>
+                    <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button></a>
+                    <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button></a>
+                    <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-google" ></i></button></a>
+                    
+                    
+                    
                 </div>
 
                 <div class="row">
@@ -127,24 +130,24 @@ include 'header.php';
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Your Full Name</label>
-                                            <input type="text" name="name" value="" placeholder="Michael Jordan" class="form-control form-control-plain">
+                                            <input type="text" name="name" value="" placeholder="Enter name" class="form-control form-control-plain">
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Your Email</label>
-                                            <input type="text" name="email" value="" placeholder="michael.j@gmail.com" class="form-control form-control-plain">
+                                            <input type="text" name="email" value="" placeholder="Enter email@gmail.com" class="form-control form-control-plain">
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Subject</label>
-                                            <input type="text" name="subject" value="" placeholder="Say hi to you" class="form-control form-control-plain">
+                                            <input type="text" name="subject" value="" placeholder="Inquiry" class="form-control form-control-plain">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <textarea name="content" class="form-control form-control-plain" placeholder="Here you can write your nice text" rows="8"></textarea>
+                                            <textarea name="content" class="form-control form-control-plain" placeholder="Here you can write your Inquiry" rows="8"></textarea>
                                         </div>
                                         <div>
                                             <div class="col-md-2 col-md-offset-5">
@@ -168,16 +171,11 @@ include 'header.php';
             <nav class="pull-left">
                 <ul>
                     <li>
-                        <a href="#">Home</a>
+                        <a href="http://localhost/Petroleum/">Home</a>
                     </li>
+                    
                     <li>
-                        <a href="#">Company</a>
-                    </li>
-                    <li>
-                        <a href="#">Portfolio</a>
-                    </li>
-                    <li>
-                        <a href="#">Blog</a>
+                        <a href="http://localhost/Petroleum/About.php">About Us</a>
                     </li>
                 </ul>
             </nav>

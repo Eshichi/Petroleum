@@ -122,6 +122,7 @@ include 'header.php';
                     
                 </div>
 
+               <form method="POST" action="https://formspree.io/eshichi@gmail.com"> 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <div class="contact-form">
@@ -130,28 +131,28 @@ include 'header.php';
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Your Full Name</label>
-                                            <input type="text" name="name" value="" placeholder="Enter name" class="form-control form-control-plain">
+                                            <input type="name" name="name" value="" placeholder="Enter name" class="form-control form-control-plain">
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Your Email</label>
-                                            <input type="text" name="email" value="" placeholder="Enter email@gmail.com" class="form-control form-control-plain">
+                                            <input type="email" name="email" value="" placeholder="Enter email@gmail.com" class="form-control form-control-plain">
                                         </div>
                                     </div>
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Subject</label>
-                                            <input type="text" name="subject" value="" placeholder="Inquiry" class="form-control form-control-plain">
+                                            <input type="subject" name="subject" value="" placeholder="Inquiry" class="form-control form-control-plain">
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group">
-                                            <textarea name="content" class="form-control form-control-plain" placeholder="Here you can write your Inquiry" rows="8"></textarea>
+                                            <textarea name="message" class="form-control form-control-plain" placeholder="Here you can write your Inquiry" rows="8"></textarea>
                                         </div>
                                         <div>
                                             <div class="col-md-2 col-md-offset-5">
-                                                <button type="button" class="btn btn-danger btn-fill">
+                                                <button type="submit" class="btn btn-danger btn-fill">
                                                     Contact Us
                                                 </button>
                                             </div>
@@ -162,9 +163,13 @@ include 'header.php';
                         </div>
                     </div>
                 </div>
+                </form>
             </div>
         </div>
     </div>
+    
+
+   
 
     <footer class="footer footer-color-black" data-color="black">
         <div class="container">
@@ -212,4 +217,5 @@ include 'header.php';
 <script type="text/javascript" src="../assets/js/gaia.js"></script>
 
 </html>
+
 

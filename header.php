@@ -57,7 +57,7 @@
                             <a href="http://localhost/Petroleum/">Careers</a>
                     </li>
                     <li>
-                        <a href="https://www.creative-tim.com/product/gaia-bootstrap-template-pro" class="btn btn-danger btn-fill">Contact Us</a>
+                        <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Contact Us</a>
                     </li>
                     
                     <li class="dropdown">

@@ -58,43 +58,19 @@ include 'header.php';
                         <li>
                                 <a href="http://localhost/Petroleum/">Products</a>
                         </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Business<span class="caret"></span></a>
-                        <ul class="dropdown-menu dropdown-danger">
-                            <li>
-                                <a href="">Sample here</a>
-                            </li>
-                            <li>
-                                <a href="">Sample here</a>
-                            </li>
-                        </ul>
-                    </li>
+                        <li>
+                                <a href="http://localhost/Petroleum/Business.php">Business</a>
+                        </li>
                     <li>
                         <a href="http://localhost/Petroleum/About.php" >About Us</a>
                     </li>
                     <li>
-                            <a href="http://localhost/Petroleum/">Careers</a>
+                            <a href="http://localhost/Petroleum/Career.php">Careers</a>
                     </li>
                     <li>
                         <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Contact Us</a>
                     </li>
                     
-                    <li class="dropdown">
-                        <a href="#gaia" class="dropdown-toggle" data-toggle="dropdown">
-                            <i class="fa fa-share-alt"></i> Share
-                        </a>
-                        <ul class="dropdown-menu dropdown-danger">
-                            <li>
-                                <a id="facebookNav" href="#" class="sharrre"><i class="fa fa-facebook-square"></i> Facebook</a>
-                            </li>
-                            <li>
-                                <a id="twitterNav" href="#" class="sharrre"><i class="fa fa-twitter"></i> Twitter</a>
-                            </li>
-                            <li>
-                                <a id="googleNav" href="#" class="sharrre"><i class="fa fa-google-plus"></i> Google</a>
-                            </li>
-                        </ul>
-                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->

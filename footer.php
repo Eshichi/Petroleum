@@ -23,7 +23,7 @@
                          <nav>
                             <ul>
                                 <li>
-                                    <a href="#">Contact Us</a>
+                                    <a href="http://localhost/Petroleum/Contact.php">Contact Us</a>
                                 </li>
                                 <li>
                                     <a href="#">Terms &amp; Conditions</a>

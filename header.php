@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="utf-8" />
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/icon.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/icon.png">
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>FS Petroleum</title>
@@ -39,29 +39,22 @@
                         <li>
                                 <a href="http://localhost/Petroleum/">Products</a>
                         </li>
-                    <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Business<span class="caret"></span></a>
-                        <ul class="dropdown-menu dropdown-danger">
-                            <li>
-                                <a href="">Sample here</a>
-                            </li>
-                            <li>
-                                <a href="">Sample here</a>
-                            </li>
-                        </ul>
-                    </li>
+                        <li>
+                                <a href="http://localhost/Petroleum/Business.php">Business</a>
+                        </li>
+                    
                     <li>
                         <a href="http://localhost/Petroleum/About.php" >About Us</a>
                     </li>
                     <li>
-                            <a href="http://localhost/Petroleum/">Careers</a>
+                            <a href="http://localhost/Petroleum/Career.php">Careers</a>
                     </li>
                     <li>
                         <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Contact Us</a>
                     </li>
                     
                     <li class="dropdown">
-                        <a href="#gaia" class="dropdown-toggle" data-toggle="dropdown">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
                             <i class="fa fa-share-alt"></i> Share
                         </a>
                         <ul class="dropdown-menu dropdown-danger">

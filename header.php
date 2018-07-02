@@ -54,8 +54,12 @@
                         <a href="http://localhost/Petroleum/About.php" >About Us</a>
                     </li>
                     <li>
+                            <a href="http://localhost/Petroleum/">Careers</a>
+                    </li>
+                    <li>
                         <a href="https://www.creative-tim.com/product/gaia-bootstrap-template-pro" class="btn btn-danger btn-fill">Contact Us</a>
                     </li>
+                    
                     <li class="dropdown">
                         <a href="#gaia" class="dropdown-toggle" data-toggle="dropdown">
                             <i class="fa fa-share-alt"></i> Share

@@ -7,16 +7,9 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="#">Home</a></li>
-                                <li>
-                                    <a href="#">Find offers</a>
+                                    <a href="#">Home</a>
                                 </li>
-                                <li>
-                                    <a href="#">Discover Projects</a>
-                                </li>
-                                <li>
-                                    <a href="#">Our Portfolio</a>
-                                </li>
+                                
                                 <li>
                                     <a href="#">About Us</a>
                                 </li>
@@ -33,36 +26,10 @@
                                     <a href="#">Contact Us</a>
                                 </li>
                                 <li>
-                                    <a href="#">How it works</a>
-                                </li>
-                                <li>
                                     <a href="#">Terms &amp; Conditions</a>
                                 </li>
                                 <li>
                                     <a href="#">Company Policy</a>
-                                </li>
-                                <li>
-                                    <a href="#">Money Back</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3">
-                    <div class="info">
-                        <h5 class="title">Latest News</h5>
-                        <nav>
-                            <ul>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-twitter"></i> <b>Get Shit Done</b> The best kit in the market is here, just give it a try and let us...
-                                        <hr class="hr-small">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="#">
-                                        <i class="fa fa-twitter"></i> We've just been featured on <b> Awwwards Website</b>! Thank you everybody for...
-                                    </a>
                                 </li>
                             </ul>
                         </nav>
@@ -100,7 +67,7 @@
             </div>
             <hr>
             <div class="copyright">
-                 © <script> document.write(new Date().getFullYear()) </script> Creative Tim, made with love
+                 © <script> document.write(new Date().getFullYear()) </script> FS Petroleum, Developed by N.Villanueva
             </div>
         </div>
     </footer>

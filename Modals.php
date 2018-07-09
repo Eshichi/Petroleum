@@ -11,7 +11,7 @@
           <p>An inhibited high-grade oil, Nytro Gemini X conforms to IEC 60296 Edition 4.0 – including the fulfilment of specific requirements for special applications. Developed and formulated to deliver strong resistance to oil degradation, Nytro Gemini X provides excellent oxidation stability for a longer transformer life with less maintenance.</p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
         </div>
       </div>
       
@@ -31,7 +31,7 @@
           <p>Nytro Libra is an uninhibited transformer oil that conforms to IEC 60296 Edition 4.0. Developed and formulated to deliver solid resistance to oil degradation, Nytro Libra provides good oxidation stability thanks to its natural inhibitors. This increases the possibilities for a longer transformer life with less maintenance.</p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
         </div>
       </div>
       
@@ -51,7 +51,7 @@
           <p>An inhibited super grade, Nytro 4000X conforms to IEC 60296 Edition 4.0 – including the fulfillment of specific requirements for special applications. Developed and formulated to deliver maximum resistance to oil degradation, Nytro 4000X provides outstanding oxidation stability for a longer transformer life with less maintenance.</p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
         </div>
       </div>
       
@@ -71,7 +71,7 @@
           <p>Some text in the modal.</p>
         </div>
         <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
         </div>
       </div>
       

@@ -18,7 +18,7 @@
     <link href='https://fonts.googleapis.com/css?family=Cambo|Poppins:400,600' rel='stylesheet' type='text/css'>
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
-    
+
     <meta charset="utf-8" />
     <link rel="apple-touch-icon" sizes="76x76" href="../assets/img/apple-icon.png">
 	<link rel="icon" type="image/png" sizes="96x96" href="../assets/img/favicon.png">
@@ -94,8 +94,8 @@
         <div class="section section-contact-form">
             <div class="container">
                     <div class="title-area">
-                        <h5 class="subtitle text-gray"> Talk To Us</h5>
-                        <h2>Contact Us</h2>
+                        <h5 class="subtitle text-gray"> Connection</h5>
+                        <h2>Talk To Us</h2>
                         <div class="separator separator-danger">✻</div>
                         <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
                     </div>
@@ -104,11 +104,31 @@
                      <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button></a>
                     <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button></a>
                     <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button></a>
-                    <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-google" ></i></button></a>
-                    
-                    
-                    
                 </div>
+
+               <div class="section section-contact-us">
+                    <div class="contact-container">
+                        <div class="title-area">
+                            <div class="address">
+                                <h4>Where to meet ?</h4>
+                                <p class="text-gray">
+                                Eligino St,  <br>
+                                Quezon City,<br>
+                                Metro Manila
+                                </p>
+                                <h4>Phone</h4>
+                                <p class="text-gray">930 5844 or 371 6874</p>
+                                <h4>Or Email us</h4>
+                                
+                            </div>
+                        </div>
+                        <div class="map">
+                            <div data-lat="44.433530" data-lng="26.093928" class="google-map big-map"></div>
+                        </div>
+                    </div>
+                </div> 
+
+
 
                <form method="POST" action="https://formspree.io/eshichi@gmail.com"> 
                 <div class="row">
@@ -153,6 +173,7 @@
                 </div>
                 </form>
             </div>
+            
         </div>
     </div>
     
@@ -180,7 +201,7 @@
                     <i class="fa fa-twitter"></i>
                 </a>
                     <a class="btn btn-social btn-pinterest btn-simple">
-                    <i class="fa fa-pinterest"></i>
+                    <i class="fa fa-instagram"></i>
                 </a>
             </div>
             <div class="copyright">

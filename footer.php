@@ -23,14 +23,9 @@
                          <nav>
                             <ul>
                                 <li>
-                                    <a href="http://localhost/Petroleum/Contact.php">Contact Us</a>
+                                    <a href="http://localhost/Petroleum/Contact.php">Reach Us</a>
                                 </li>
-                                <li>
-                                    <a href="#">Terms &amp; Conditions</a>
-                                </li>
-                                <li>
-                                    <a href="#">Company Policy</a>
-                                </li>
+                            
                             </ul>
                         </nav>
                     </div>
@@ -46,18 +41,13 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="#" class="btn btn-social btn-dribbble btn-simple">
-                                        <i class="fa fa-dribbble"></i> Dribbble
-                                    </a>
-                                </li>
-                                <li>
                                     <a href="#" class="btn btn-social btn-twitter btn-simple">
                                         <i class="fa fa-twitter"></i> Twitter
                                     </a>
                                 </li>
                                 <li>
                                     <a href="#" class="btn btn-social btn-reddit btn-simple">
-                                        <i class="fa fa-google-plus-square"></i> Google+
+                                        <i class="fa fa-instagram"></i> Instagram
                                     </a>
                                 </li>
                             </ul>

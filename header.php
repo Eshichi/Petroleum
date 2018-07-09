@@ -67,7 +67,7 @@
                                 <a id="twitterNav" href="#" class="sharrre"><i class="fa fa-twitter"></i> Twitter</a>
                             </li>
                             <li>
-                                <a id="googleNav" href="#" class="sharrre"><i class="fa fa-google-plus"></i> Google</a>
+                                <a id="googleNav" href="#" class="sharrre"><i class="fa fa-instagram"></i> Instagram</a>
                             </li>
                         </ul>
                     </li>

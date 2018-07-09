@@ -5,7 +5,7 @@ include 'header.php';
     <div class="section section-header">
         <div class="parallax filter filter-color-red">
             <div class="image"
-                style="background-image: url('assets/img/header.jpg')">
+                style="background-image: url('assets/img/header2.jpg')">
             </div>
             <div class="container" > 
                 <div class="content">

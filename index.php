@@ -10,7 +10,7 @@ include 'header.php';
             <div class="container" > 
                 <div class="content">
                     <div class="title-area">
-                        <h1 class="title-modern">OUR MOTTO</h1>
+                        <h1 class="title-modern">FS Petroleum</h1>
                         <h3>Building relationships with chemistry.</h2>
                         <div class="separator line-separator">♦</div>
                     </div>
@@ -73,7 +73,7 @@ include 'header.php';
                     <h3 class="text-center">NYTRO GEMINI X (IEC 60296, ED. 4) - HIGH GRADE</h3>
                     <div class="card card-blog">
                         <a target="" href="" class="header" data-toggle="modal" data-target="#GEMINI">
-                            <img src="assets/img/Products/gemini_x.jpg" class="image-header image-full" >
+                            <img src="assets/img/Products/nytro_libra.jpg" class="image-header image-full" >
                         </a>
                     </div>
                     <br>
@@ -96,7 +96,7 @@ include 'header.php';
                     <h3 class="text-center">NYTRO LIBRA (IEC 60296, ED. 4) - STANDARD GRADE</h3>
                     <div class="card card-blog">
                         <a target="_blank" href="examples/blog-post.html" class="header" data-toggle="modal" data-target="#LIBRA">
-                            <img src="assets/img/Products/nytro_libra.jpg" class="image-header image-full">
+                            <img src="assets/img/Products/gemini_x.jpg" class="image-header image-full">
                         </a>
                     </div>
 

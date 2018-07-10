@@ -97,13 +97,13 @@
                         <h5 class="subtitle text-gray"> Connection</h5>
                         <h2>Talk To Us</h2>
                         <div class="separator separator-danger">✻</div>
-                        <p class="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+                        <p class="description">We value teamwork. Our employees and stakeholders work together harmoniously toward common goals.</p>
                     </div>
 
                 <div class="social-buttons">
-                     <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button></a>
-                    <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button></a>
-                    <a href=""><button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button></a>
+                    <a href="https://www.facebook.com/fs.petroleum"><button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button></a>
+                    <a href="https://twitter.com/Fspetroleum"><button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button></a>
+                    <a href="https://www.instagram.com/fspetroleum/?hl=en"><button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button></a>
                 </div>
 
                <div class="section section-contact-us">
@@ -112,7 +112,7 @@
                             <div class="address">
                                 <h4>Where to meet ?</h4>
                                 <p class="text-gray">
-                                Eligino St,  <br>
+                                7 Eligino St,  <br>
                                 Quezon City,<br>
                                 Metro Manila
                                 </p>
@@ -130,7 +130,7 @@
 
 
 
-               <form method="POST" action="https://formspree.io/eshichi@gmail.com"> 
+               <form method="POST" action="https://formspree.io/sales@fspetroleum.com"> 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <div class="contact-form">
@@ -185,22 +185,22 @@
             <nav class="pull-left">
                 <ul>
                     <li>
-                        <a href="http://fspetroleum.com/">Home</a>
+                        <a href="http://fspetroleum.com/">Merchandise</a>
                     </li>
                     
                     <li>
-                        <a href="http://fspetroleum.com/About.php">About Us</a>
+                        <a href="http://fspetroleum.com/About.php">The Company</a>
                     </li>
                 </ul>
             </nav>
             <div class="social-area pull-right">
-                <a class="btn btn-social btn-facebook btn-simple">
+                <a href="https://www.facebook.com/fs.petroleum" class="btn btn-social btn-facebook btn-simple">
                     <i class="fa fa-facebook-square"></i>
                 </a>
-                <a class="btn btn-social btn-twitter btn-simple">
+                <a href="https://twitter.com/Fspetroleum" class="btn btn-social btn-twitter btn-simple">
                     <i class="fa fa-twitter"></i>
                 </a>
-                    <a class="btn btn-social btn-pinterest btn-simple">
+                <a href="https://www.instagram.com/fspetroleum/?hl=en" class="btn btn-social btn-pinterest btn-simple">
                     <i class="fa fa-instagram"></i>
                 </a>
             </div>

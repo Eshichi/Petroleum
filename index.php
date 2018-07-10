@@ -36,7 +36,7 @@ include 'header.php';
                             <i class="pe-7s-graph1"></i>
                         </div>
                         <h3>Sales</h3>
-                        <p class="description">information about sales</p>
+                        <!-- <p class="description">information about sales</p> -->
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -45,7 +45,7 @@ include 'header.php';
                             <i class="pe-7s-note2"></i>
                         </div>
                         <h3>Content</h3>
-                        <p class="description">Content information</p>
+                        <!-- <p class="description">Content information</p> -->
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -53,8 +53,8 @@ include 'header.php';
                         <div class="icon text-danger">
                             <i class="pe-7s-keypad text-danger"></i>
                         </div>
-                        <h3>Products/other information</h3>
-                        <p class="description">Sample text information</p>
+                        <h3>Products</h3>
+                        <!-- <p class="description">Sample text information</p> -->
                     </div>
                 </div>
             </div>
@@ -65,7 +65,7 @@ include 'header.php';
         <div class="title-area">
             <h2>Our Products</h2>
             <div class="separator separator-danger">♦</div>
-            <p class="description" style="color: white;">Short information for the products</p>
+            <!-- <p class="description" style="color: white;">Short information for the products</p> -->
         </div>
         <div class="container">
             <div class="row">
@@ -76,7 +76,7 @@ include 'header.php';
                             <img src="assets/img/Products/nytro_libra.jpg" class="image-header image-full" >
                         </a>
                     </div>
-                    <br>
+                    <!-- <br>
                     <h3 class="text-center">More Products</h3>
                     <div class="card card-blog">
                         <a target="_blank" href="" class="header">
@@ -90,7 +90,7 @@ include 'header.php';
                         <a target="_blank" href="" class="header">
                             <img src="" class="image-header image-full">
                         </a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-md-4">
                     <h3 class="text-center">NYTRO LIBRA</h3>
@@ -100,16 +100,16 @@ include 'header.php';
                         </a>
                     </div>
 
-                    <br>
+                    <!-- <br>
                     <h3 class="text-center">More Products</h3>
                     <div class="card card-blog">
                         <a target="_blank" href="" class="header">
                             <img src="" class="image-header image-full">
                         </a>
-                    </div>
+                    </div> -->
                 </div>
                 <div class="col-md-4">
-                    <h3 class="text-center">Sample name here</h3>
+                    <!-- <h3 class="text-center">Sample name here</h3>
                     <div class="card card-blog">
                         <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#4000A">
                             <img src="assets/img/Products/NYTRO_4000A.jpg" class="image-header image-full">
@@ -132,7 +132,7 @@ include 'header.php';
                         </a>
                     </div>
 
-                    <br>
+                    <br> -->
                     
 
                 </div>

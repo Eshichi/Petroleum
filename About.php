@@ -2,7 +2,25 @@
 include 'header.php';
 ?>
 
-    <div class="section section-header">
+<div class="section section-header">
+        <div class="parallax filter filter-color-red">
+            <div class="image"
+                style="background-color:#18426a">
+            </div>
+            <div class="container" > 
+                <div class="content">
+                    <div class="title-area">
+                        <h1 class="title-modern">The Company</h1>
+                        <h3>Coming Soon.</h2>
+                        <div class="separator line-separator">♦</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="section section-header">
         <div class="parallax filter filter-color-red">
             <div class="image"
                 style="background-image: url('assets/img/header2.jpg')">
@@ -190,7 +208,7 @@ do more than test our lubricants; we constantly manufacture quality into our pro
             </div>
 
         </div>
-    </div>
+    </div> -->
 
 
 

@@ -36,17 +36,17 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="https://www.facebook.com/fs.petroleum" class="btn btn-social btn-facebook btn-simple">
+                                    <a href="https://www.facebook.com/fs.petroleum" target="_blank" class="btn btn-social btn-facebook btn-simple">
                                         <i class="fa fa-facebook-square"></i> Facebook
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://twitter.com/Fspetroleum" class="btn btn-social btn-twitter btn-simple">
+                                    <a href="https://twitter.com/Fspetroleum" target="_blank" class="btn btn-social btn-twitter btn-simple">
                                         <i class="fa fa-twitter"></i> Twitter
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.instagram.com/fspetroleum/?hl=en" class="btn btn-social btn-reddit btn-simple">
+                                    <a href="https://www.instagram.com/fspetroleum/?hl=en" target="_blank" class="btn btn-social btn-reddit btn-simple">
                                         <i class="fa fa-instagram"></i> Instagram
                                     </a>
                                 </li>

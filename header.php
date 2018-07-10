@@ -61,13 +61,13 @@
                         </a>
                         <ul class="dropdown-menu dropdown-danger">
                             <li>
-                                <a id="facebookNav" href="https://www.facebook.com/fs.petroleum" class="sharrre"><i class="fa fa-facebook-square"></i> Facebook</a>
+                                <a id="facebookNav" href="https://www.facebook.com/fs.petroleum" target="_blank"  class="sharrre"><i class="fa fa-facebook-square"></i> Facebook</a>
                             </li>
                             <li>
-                                <a id="twitterNav" href="https://twitter.com/Fspetroleum" class="sharrre"><i class="fa fa-twitter"></i> Twitter</a>
+                                <a id="twitterNav" href="https://twitter.com/Fspetroleum" target="_blank" class="sharrre"><i class="fa fa-twitter"></i> Twitter</a>
                             </li>
                             <li>
-                                <a id="googleNav" href="https://www.instagram.com/fspetroleum/?hl=en" class="sharrre"><i class="fa fa-instagram"></i> Instagram</a>
+                                <a id="googleNav" href="https://www.instagram.com/fspetroleum/?hl=en" target="_blank" class="sharrre"><i class="fa fa-instagram"></i> Instagram</a>
                             </li>
                         </ul>
                     </li>

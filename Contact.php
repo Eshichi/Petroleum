@@ -101,9 +101,9 @@
                     </div>
 
                 <div class="social-buttons">
-                    <a href="https://www.facebook.com/fs.petroleum"><button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button></a>
-                    <a href="https://twitter.com/Fspetroleum"><button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button></a>
-                    <a href="https://www.instagram.com/fspetroleum/?hl=en"><button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button></a>
+                    <a href="https://www.facebook.com/fs.petroleum" target="_blank"><button class="btn btn-social btn-simple"><i class="fa fa-facebook-square"></i></button></a>
+                    <a href="https://twitter.com/Fspetroleum" target="_blank"><button class="btn btn-social btn-simple"><i class="fa fa-twitter"></i></button></a>
+                    <a href="https://www.instagram.com/fspetroleum/?hl=en" target="_blank"><button class="btn btn-social btn-simple"><i class="fa fa-instagram"></i></button></a>
                 </div>
 
                <div class="section section-contact-us">
@@ -130,7 +130,7 @@
 
 
 
-               <form method="POST" action="https://formspree.io/sales@fspetroleum.com"> 
+               <form method="POST" action="https://formspree.io/sales@fspetroleum.comi"> 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <div class="contact-form">
@@ -161,7 +161,7 @@
                                         <div>
                                             <div class="col-md-2 col-md-offset-5">
                                                 <button type="submit" class="btn btn-danger btn-fill">
-                                                    Contact Us
+                                                    Send
                                                 </button>
                                             </div>
                                         </div>

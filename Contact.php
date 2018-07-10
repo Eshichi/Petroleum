@@ -130,7 +130,7 @@
 
 
 
-               <form method="POST" action="https://formspree.io/sales@fspetroleum.comi"> 
+               <form method="POST" action="https://formspree.io/sales@fspetroleum.com"> 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <div class="contact-form">

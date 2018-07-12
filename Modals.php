@@ -1,4 +1,4 @@
-<div class="modal fade" id="GEMINI" role="dialog">
+  <div class="modal fade" id="GEMINI" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
@@ -38,17 +38,17 @@
     </div>
   </div>
 
-  <div class="modal fade" id="4000A" role="dialog">
+  <div class="modal fade" id="Nynas" role="dialog">
     <div class="modal-dialog">
     
       <!-- Modal content-->
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">NYTRO 4000X (IEC 60296, ED. 4) - SUPER GRADE</h4>
+          <h4 class="modal-title">Nynas - All Transformer Oils</h4>
         </div>
         <div class="modal-body">
-          <p>An inhibited super grade, Nytro 4000X conforms to IEC 60296 Edition 4.0 – including the fulfillment of specific requirements for special applications. Developed and formulated to deliver maximum resistance to oil degradation, Nytro 4000X provides outstanding oxidation stability for a longer transformer life with less maintenance.</p>
+          <p>Nynas is the world’s leading supplier of transformer oils with the widest product range on the market. Thanks to their global presence, and active participation in the committees that shape our industry, recommendations and world-class logistics.</p>
         </div>
         <div class="modal-footer">
           <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
@@ -58,22 +58,4 @@
     </div>
   </div>
 
-  <div class="modal fade" id="GEMINI" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Modal Header</h4>
-        </div>
-        <div class="modal-body">
-          <p>Some text in the modal.</p>
-        </div>
-        <div class="modal-footer">
-          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
-        </div>
-      </div>
-      
-    </div>
-  </div>
+  

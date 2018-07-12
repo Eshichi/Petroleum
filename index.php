@@ -20,6 +20,8 @@ include 'header.php';
         </div>
     </div>
 
+
+
     <div class="section">
         <div class="container">
             <div class="row">
@@ -60,6 +62,7 @@ include 'header.php';
             </div>
         </div>
     </div>
+    
     <div class="section section-cards section-gray" style="background-color: #18426a;
     padding: 70px 0; color : white;">
         <div class="title-area">
@@ -93,12 +96,37 @@ include 'header.php';
                     </div> -->
                 </div>
                 <div class="col-md-4">
-                    <h3 class="text-center">Nynas - All Transformer Oils</h3>
-                    <div class="card card-blog">
-                        <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#Nynas">
-                            <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
-                        </a>
-                    </div>
+                    
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> 
+                            
+                        <h3 class="text-center" style="color : white">Nynas - All Transformer Oils</h3>
+                        <div class="card card-blog">
+                           
+                                <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
+                            
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        
+                        <ul class="dropdown-menu dropdown-danger">
+                            <li>
+                                <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#Nynas">
+                                   Nynas
+                                </a>
+                                <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#GEMINI">
+                                   Libra 
+                                </a>
+                                <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#LIBRA">
+                                   Gemini X
+                                </a>
+                            </li>
+                            
+                        </ul>
+                   
+                   
 
                     <!-- <br>
                     <h3 class="text-center">More Products</h3>

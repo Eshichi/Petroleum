@@ -68,19 +68,19 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                                <a href="http://fspetroleum.com/">merchandise</a>
+                                <a href="http://localhost/Petroleum/">merchandise</a>
                         </li>
                         <li>
-                                <a href="http://fspetroleum.com/Business.php">Business</a>
+                                <a href="http://localhost/Petroleum/Business.php">Services</a>
                         </li>
                     <li>
-                        <a href="http://fspetroleum.com/About.php" >The Company</a>
+                        <a href="http://localhost/Petroleum/About.php" >The Company</a>
                     </li>
                     <li>
-                            <a href="http://fspetroleum.com/Career.php">Employment</a>
+                            <a href="http://localhost/Petroleum/Career.php">Employment</a>
                     </li>
                     <li>
-                        <a href="http://fspetroleum.com/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
+                        <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
                     </li>
                     
                 </ul>
@@ -185,11 +185,11 @@
             <nav class="pull-left">
                 <ul>
                     <li>
-                        <a href="http://fspetroleum.com/">Merchandise</a>
+                        <a href="http://localhost/Petroleum/">Products</a>
                     </li>
                     
                     <li>
-                        <a href="http://fspetroleum.com/About.php">The Company</a>
+                        <a href="http://localhost/Petroleum/About.php">The Company</a>
                     </li>
                 </ul>
             </nav>

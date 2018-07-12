@@ -2,25 +2,9 @@
 include 'header.php';
 ?>
 
-<div class="section section-header">
-        <div class="parallax filter filter-color-red">
-            <div class="image"
-                style="background-color:#18426a">
-            </div>
-            <div class="container" > 
-                <div class="content">
-                    <div class="title-area">
-                        <h1 class="title-modern">The Company</h1>
-                        <h3>Coming Soon.</h2>
-                        <div class="separator line-separator">♦</div>
-                    </div>
-                </div>
 
-            </div>
-        </div>
-    </div>
 
-    <!-- <div class="section section-header">
+    <div class="section section-header">
         <div class="parallax filter filter-color-red">
             <div class="image"
                 style="background-image: url('assets/img/header2.jpg')">
@@ -29,7 +13,7 @@ include 'header.php';
                 <div class="content">
                     <div class="title-area">
                         <h1 class="title-modern">Something About Us</h1>
-                        <h3>Sample text here.</h2>
+                        <h3>The Company.</h2>
                         <div class="separator line-separator">♦</div>
                     </div>
                 </div>
@@ -88,7 +72,25 @@ do more than test our lubricants; we constantly manufacture quality into our pro
         </div>
     </div>
 
-    <div class="section section-our-team-freebie">
+    <div class="section section-header">
+        <div class="parallax filter filter-color-red">
+            <div class="image"
+                style="background-color:#18426a">
+            </div>
+            <div class="container" > 
+                <div class="content">
+                    <div class="title-area">
+                        <h1 class="title-modern">Who we are and Clients Testimonials</h1>
+                        <h3>Coming Soon.</h2>
+                        <div class="separator line-separator">♦</div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- <div class="section section-our-team-freebie">
         <div class="parallax filter filter-color-black">
             <div class="image" style="background-image:url('assets/img/Rep.jpg')">
             </div>

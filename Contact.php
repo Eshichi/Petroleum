@@ -110,21 +110,41 @@
                     <div class="contact-container">
                         <div class="title-area">
                             <div class="address">
+                            
                                 <h4>Where to meet ?</h4>
-                                <p class="text-gray">
-                                7 Eligino St,  <br>
-                                Quezon City,<br>
-                                Metro Manila
-                                </p>
-                                <h4>Phone</h4>
-                                <p class="text-gray">930 5844 or 371 6874</p>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <h3>Office Address</h3>
+                                        <p class="text-gray">
+                                            7 Eligino St,  
+                                            Quezon City,
+                                            Metro Manila
+                                        </p>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <h3>Plant Address</h3>
+                                        <p class="text-gray">Mustang St. cor Pheonix Rd.
+                                            Meycauayan Ind'l Subd. 
+                                            Bgy. Iba,Meycauayan, Bulacan 
+
+                                        </p>
+                                    </div>
+                                </div>
+                               <br> <hr style="width : 100px;">
+                                
+
+                                
+                                <h4>Our Numbers</h4>
+                                
+                                <p class="text-gray">Telefax: 02-930-5844</p>
+                                <p class="text-gray">Sales: 02-381-6784</p>
+                                <p class="text-gray">Landline: 930 5844 or 371 6874</p>
                                 <h4>Or Email us</h4>
                                 
                             </div>
+                            
                         </div>
-                        <div class="map">
-                            <div data-lat="44.433530" data-lng="26.093928" class="google-map big-map"></div>
-                        </div>
+                        
                     </div>
                 </div> 
 

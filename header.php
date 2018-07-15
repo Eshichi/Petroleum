@@ -33,7 +33,7 @@
                     <span class="icon-bar bar3"></span>
                 </button>
                 <a href="" class="navbar-brand">
-                <img src="assets/img/FSLogo_2.png" class="" sizes="96x96" style=" width: 75px; height: 75px;margin-top: -23px;">
+                <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 75px; height: 75px;margin-top: -23px;">
                 </a>
             </div>
             <div class="collapse navbar-collapse">

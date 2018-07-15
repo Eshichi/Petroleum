@@ -100,7 +100,7 @@ include 'header.php';
                         
                         <h3 class="text-center">Nynas - All Transformer Oils</h3>
                             <div class="card card-blog">
-                                <a target="Nynas.php" href="Nynas.php" class="header">
+                                <a target="#" href="Nynas.php" class="header">
                                     <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
                                 </a>
                             </div>

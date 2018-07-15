@@ -68,19 +68,19 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                                <a href="http://fspetroleum.com/">merchandise</a>
+                                <a href="http://localhost/Petroleum/">merchandise</a>
                         </li>
                         <li>
-                                <a href="http://fspetroleum.com/Business.php">Services</a>
+                                <a href="http://localhost/Petroleum/Business.php">Services</a>
                         </li>
                     <li>
-                        <a href="http://fspetroleum.com/About.php" >The Company</a>
+                        <a href="http://localhost/Petroleum/About.php" >The Company</a>
                     </li>
                     <li>
-                            <a href="http://fspetroleum.com/Career.php">Employment</a>
+                            <a href="http://localhost/Petroleum/Career.php">Employment</a>
                     </li>
                     <li>
-                        <a href="http://fspetroleum.com/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
+                        <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
                     </li>
                     
                 </ul>
@@ -150,7 +150,7 @@
 
 
 
-               <form method="POST" action="https://formspree.io/sales@fspetroleum.com"> 
+               <form method="POST" action="https://formspree.io/sales@fspetroleum.com "> 
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
                         <div class="contact-form">
@@ -165,6 +165,7 @@
                                     <div class="col-md-4">
                                         <div class="form-group">
                                             <label>Your Email</label>
+                                            <input type="hidden" name="_cc" value="junji.ruivivar@fspetroleum.com" /> 
                                             <input type="email" name="email" value="" placeholder="Enter email@gmail.com" class="form-control form-control-plain">
                                         </div>
                                     </div>
@@ -188,6 +189,8 @@
                                     </div>
                                 </div>
                             </form>
+
+
                         </div>
                     </div>
                 </div>
@@ -205,11 +208,11 @@
             <nav class="pull-left">
                 <ul>
                     <li>
-                        <a href="http://fspetroleum.com/">Products</a>
+                        <a href="http://localhost/Petroleum/">Products</a>
                     </li>
                     
                     <li>
-                        <a href="http://fspetroleum.com/About.php">The Company</a>
+                        <a href="http://localhost/Petroleum/About.php">The Company</a>
                     </li>
                 </ul>
             </nav>

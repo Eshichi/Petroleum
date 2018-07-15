@@ -72,12 +72,12 @@ include 'header.php';
             <div class="row">
                 <div class="col-md-4">
                 
-                    <!-- <h3 class="text-center">NYTRO GEMINI X </h3>
-                    <div class="card card-blog">
-                        <a target="" href="" class="header" data-toggle="modal" data-target="#GEMINI">
-                            <img src="assets/img/Products/nytro_libra.jpg" class="image-header image-full" >
-                        </a>
-                    </div> -->
+                     <h3 class="text-center">Nynas - All Transformer Oils</h3>
+                            <div class="card card-blog">
+                                <a target="" href="Nynas.php" class="header">
+                                    <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
+                                </a>
+                            </div>
                     
                     <!-- <br>
                     <h3 class="text-center">More Products</h3>
@@ -97,14 +97,12 @@ include 'header.php';
                 </div>
                 <div class="col-md-4">
                     
-                        
-                        <h3 class="text-center">Nynas - All Transformer Oils</h3>
+                        <h3 class="text-center">HanaSaki 4T Motorcycle Oil</h3>
                             <div class="card card-blog">
-                                <a target="#" href="Nynas.php" class="header">
-                                    <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
+                                <a target="" href="HanaSaki.php" class="header">
+                                    <img src="assets/img/Products/None.jpg" class="image-header image-full">
                                 </a>
                             </div>
-                       
                     <!-- <br>
                     <h3 class="text-center">More Products</h3>
                     <div class="card card-blog">
@@ -114,12 +112,12 @@ include 'header.php';
                     </div> -->
                 </div>
                 <div class="col-md-4">
-                    <!-- <h3 class="text-center">Sample name here</h3>
+                    <h3 class="text-center">Kevlon Lubricants</h3>
                     <div class="card card-blog">
-                        <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#4000A">
-                            <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
+                        <a target="" href="" class="header" >
+                            <img src="assets/img/Products/None.jpg" class="image-header image-full">
                         </a>
-                    </div> -->
+                    </div> 
 
                     <!-- <br>
                     <h3 class="text-center">More Products</h3>

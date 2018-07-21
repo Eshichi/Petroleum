@@ -10,7 +10,7 @@ include 'header.php';
             <div class="container" > 
                 <div class="content">
                     <div class="title-area">
-                        <h1 class="title-modern">FS Petroleum</h1>
+                        <h1 class="title-modern">FS Petroleum Plus Traders Inc.</h1>
                         <h3>Building relationships with chemistry.</h2>
                         <div class="separator line-separator">♦</div>
                     </div>

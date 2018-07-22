@@ -28,63 +28,11 @@ include 'header.php';
                         <a target="_blank" href="" class="header">
                             <img src="" class="image-header image-full">
                         </a>
-                    </div>
+                    </div> -->
 
-                    <br>
-                    <h3 class="text-center">More Products</h3>
-                    <div class="card card-blog">
-                        <a target="_blank" href="" class="header">
-                            <img src="" class="image-header image-full">
-                        </a>
-                    </div> -->
-                </div>
-                <div class="col-md-4">
-                    
-                        
-                    <!-- <h3 class="text-center">hanasaki</h3>
-                    <div class="card card-blog">
-                        <a target="" href="" class="header" data-toggle="modal" data-target="#LIBRA">
-                            <img src="assets/img/Products/nytro_libra.jpg" class="image-header image-full">
-                        </a>
-                    </div> -->
                    
-
-                    <!-- <br>
-                    <h3 class="text-center">More Products</h3>
-                    <div class="card card-blog">
-                        <a target="_blank" href="" class="header">
-                            <img src="" class="image-header image-full">
-                        </a>
-                    </div> -->
                 </div>
-                <div class="col-md-4">
-                    <!-- <h3 class="text-center">Sample name here</h3>
-                    <div class="card card-blog">
-                        <a target="_blank" href="examples/blog-posts.html" class="header" data-toggle="modal" data-target="#4000A">
-                            <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
-                        </a>
-                    </div> -->
-
-                    <!-- <br>
-                    <h3 class="text-center">More Products</h3>
-                    <div class="card card-blog">
-                        <a target="_blank" href="" class="header">
-                            <img src="" class="image-header image-full">
-                        </a>
-                    </div>
-
-                    <br>
-                    <h3 class="text-center">More Products</h3>
-                    <div class="card card-blog">
-                        <a target="_blank" href="" class="header">
-                            <img src="" class="image-header image-full">
-                        </a>
-                    </div> -->
-
-                    <br>
-                    
-
-                </div>
+               
             </div>
         </div>
     </div>

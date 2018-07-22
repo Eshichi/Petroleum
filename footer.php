@@ -11,12 +11,7 @@
                                 </li>
                                 
                                 <li>
-                                    <a href="http://localhost:8080/Petroleum/Company.php">About Us</a>
-                                    <a href="http://localhost/Petroleum/">Products</a>
-                                </li>
-                                
-                                <li>
-                                    <a href="http://localhost/Petroleum/About.php">About Us</a>
+                                    <a href="http://localhost:8080/Petroleum/Company.php">The Company</a>
                                 </li>
                             </ul>
                         </nav>

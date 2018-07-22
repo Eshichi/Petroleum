@@ -36,7 +36,7 @@ include 'header.php';
                 
                      <h3 class="text-center">Nynas - All Transformer Oils</h3>
                             <div class="card card-blog">
-                                <a target="" href="Products.php" class="header">
+                                <a target="" href="Products.php#Nynas" class="header">
                                     <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
                                 </a>
                             </div>
@@ -61,14 +61,14 @@ include 'header.php';
                     
                         <h3 class="text-center">HanaSaki 4T Motorcycle Oil</h3>
                             <div class="card card-blog">
-                                <a target="" href="Products.php" class="header">    
+                                <a target="" href="Products.php#HanaSaki" class="header">    
                                     <img src="assets/img/Products/None.jpg" class="image-header image-full">
                                 </a>
                             </div>
                     <br>
                     <h3 class="text-center">Oil</h3>
                     <div class="card card-blog">
-                        <a target="" href="Products.php" class="header">
+                        <a target="" href="Products.php#Oil" class="header">
                         <img src="assets/img/Products/oil.JPG" class="image-header image-full">
                         </a>
                     </div>
@@ -76,7 +76,8 @@ include 'header.php';
                 <div class="col-md-4">
                     <h3 class="text-center">Kevlon Lubricants</h3>
                     <div class="card card-blog">
-                         <a target="" href="Products.php" class="header">
+                         <a target="" href="Products.php#services" class="header">
+                            
                             <img src="assets/img/Products/None.jpg" class="image-header image-full">
                         </a>
                     </div> 

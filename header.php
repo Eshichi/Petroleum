@@ -39,7 +39,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-<<<<<<< HEAD
+
                                 <a href="http://localhost:8080/Petroleum/">Products</a>
                         </li>
                         <li>
@@ -54,22 +54,6 @@
                     </li>
                     <li>
                         <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
-=======
-                                <a href="http://localhost/Petroleum/">Products</a>
-                        </li>
-                        <li>
-                                <a href="http://localhost/Petroleum/Business.php">Services</a>
-                        </li>
-                    
-                    <li>
-                        <a href="http://localhost/Petroleum/About.php" >The Company</a>
-                    </li>
-                    <li>
-                            <a href="http://localhost/Petroleum/Career.php">Employment</a>
-                    </li>
-                    <li>
-                        <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
->>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
                     </li>
                     
                     <li class="dropdown">

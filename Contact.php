@@ -61,26 +61,26 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="" class="navbar-brand">
-                    <img src="assets/img/FSLogo_2.png" class="" sizes="96x96" style=" width: 75px; height: 75px;margin-top: -23px;">
+                <a href="http://localhost:8080/Petroleum/" class="navbar-brand">
+                     <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 115px; height: 115px;margin-top: -23px;">
                 </a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-                                <a href="http://localhost/Petroleum/">merchandise</a>
+                                <a href="http://localhost:8080/Petroleum/">Products</a>
                         </li>
                         <li>
-                                <a href="http://localhost/Petroleum/Business.php">Services</a>
+                                <a href="http://localhost:8080/Petroleum/Services.php">Services</a>
                         </li>
                     <li>
-                        <a href="http://localhost/Petroleum/About.php" >The Company</a>
+                        <a href="http://localhost:8080/Petroleum/Company.php" >The Company</a>
                     </li>
                     <li>
-                            <a href="http://localhost/Petroleum/Career.php">Employment</a>
+                            <a href="http://localhost:8080/Petroleum/Career.php">Employment</a>
                     </li>
                     <li>
-                        <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
+                        <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
                     </li>
                     
                 </ul>
@@ -208,11 +208,11 @@
             <nav class="pull-left">
                 <ul>
                     <li>
-                        <a href="http://localhost/Petroleum/">Products</a>
+                        <a href="http://localhost:8080/Petroleum/">Products</a>
                     </li>
                     
                     <li>
-                        <a href="http://localhost/Petroleum/About.php">The Company</a>
+                        <a href="http://localhost:8080/Petroleum/Company.php">The Company</a>
                     </li>
                 </ul>
             </nav>

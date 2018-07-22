@@ -18,7 +18,11 @@ harmoniously toward common goals.</p>
                 </div>
 
                 <div class="button-get-started">
+<<<<<<< HEAD
                     <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+=======
+                    <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+>>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
                 </div>
             </div>
         </div>

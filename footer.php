@@ -7,11 +7,19 @@
                         <nav>
                             <ul>
                                 <li>
+<<<<<<< HEAD
                                     <a href="http://localhost:8080/Petroleum/">Products</a>
                                 </li>
                                 
                                 <li>
                                     <a href="http://localhost:8080/Petroleum/Company.php">About Us</a>
+=======
+                                    <a href="http://localhost/Petroleum/">Products</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="http://localhost/Petroleum/About.php">About Us</a>
+>>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
                                 </li>
                             </ul>
                         </nav>
@@ -23,7 +31,11 @@
                          <nav>
                             <ul>
                                 <li>
+<<<<<<< HEAD
                                     <a href="http://localhost:8080/Petroleum/Contact.php">Reach Us</a>
+=======
+                                    <a href="http://localhost/Petroleum/Contact.php">Reach Us</a>
+>>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
                                 </li>
                             
                             </ul>

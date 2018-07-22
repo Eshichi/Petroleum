@@ -11,7 +11,11 @@
           <p>An inhibited high-grade oil, Nytro Gemini X conforms to IEC 60296 Edition 4.0 – including the fulfilment of specific requirements for special applications. Developed and formulated to deliver strong resistance to oil degradation, Nytro Gemini X provides excellent oxidation stability for a longer transformer life with less maintenance.</p>
         </div>
         <div class="modal-footer">
+<<<<<<< HEAD
           <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+=======
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+>>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
         </div>
       </div>
       
@@ -31,7 +35,11 @@
           <p>Nytro Libra is an uninhibited transformer oil that conforms to IEC 60296 Edition 4.0. Developed and formulated to deliver solid resistance to oil degradation, Nytro Libra provides good oxidation stability thanks to its natural inhibitors. This increases the possibilities for a longer transformer life with less maintenance.</p>
         </div>
         <div class="modal-footer">
+<<<<<<< HEAD
           <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+=======
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+>>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
         </div>
       </div>
       
@@ -52,7 +60,11 @@
 </p>
         </div>
         <div class="modal-footer">
+<<<<<<< HEAD
           <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+=======
+          <a href="http://localhost/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+>>>>>>> dff67941c8e04d18928fdee62aef8cf1ff1c1585
         </div>
       </div>
       

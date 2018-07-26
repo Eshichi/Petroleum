@@ -1,7 +1,88 @@
-<?php
-include 'header.php';
-?>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/icon.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/icon.png">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    
+    
+    <title>FS Petroleum</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <link href="assets/css/gaia.1.css" rel="stylesheet"/>
+
+    <!--     Fonts and icons     -->
+    <link href='https://fonts.googleapis.com/css?family=Cambo|Poppins:400,600' rel='stylesheet' type='text/css'>
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/fonts/pe-icon-7-stroke.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <nav class="navbar navbar-default navbar-fixed-top navbar-transparent" color-on-scroll="40">
+        <!-- if you want to keep the navbar hidden you can add this class to the navbar "navbar-burger"-->
+        <div class="container">
+            <div class="navbar-header">
+                <button id="menu-toggle" type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar bar1"></span>
+                    <span class="icon-bar bar2"></span>
+                    <span class="icon-bar bar3"></span>
+                </button>
+                <a href="http://localhost:8080/Petroleum/" class="navbar-brand">
+                <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 115px; height: 115px;margin-top: -23px;">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right navbar-uppercase">
+                        <li>
+
+                                <a href="http://localhost:8080/Petroleum/">Products</a>
+                        </li>
+                        <li>
+                                <a href="http://localhost:8080/Petroleum/Services.php">Services</a>
+                        </li>
+                    
+                    <li>
+                        <a href="http://localhost:8080/Petroleum/Company.php" >The Company</a>
+                    </li>
+                    <li>
+                            <a href="http://localhost:8080/Petroleum/Career.php">Employment</a>
+                    </li>
+                    <li>
+                        <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
+                    </li>
+                    
+                    <li class="dropdown">
+                        <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="fa fa-share-alt"></i> Share
+                        </a>
+                        <ul class="dropdown-menu dropdown-danger">
+                            <li>
+                                <a id="facebookNav" href="https://www.facebook.com/fs.petroleum" target="_blank"  class="sharrre"><i class="fa fa-facebook-square"></i> Facebook</a>
+                            </li>
+                            <li>
+                                <a id="twitterNav" href="https://twitter.com/Fspetroleum" target="_blank" class="sharrre"><i class="fa fa-twitter"></i> Twitter</a>
+                            </li>
+                            <li>
+                                <a id="googleNav" href="https://www.instagram.com/fspetroleum/?hl=en" target="_blank" class="sharrre"><i class="fa fa-instagram"></i> Instagram</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+    </nav>
+
+
+
+
+
+  
     <div class="section section-header">
         <div class="parallax filter filter-color-red">
             <div class="image"
@@ -9,7 +90,7 @@ include 'header.php';
             </div>
             <div class="container" style="color: black ; padding-bottom: 50px;" > 
                 <div class="content">
-                    <div class="title-area" style="color: black ;">
+                    <div class="title-area" >
 
                         <h1 class="title-modern" >FS Petroleum <br> Plus Traders Inc.</h1>
                         <!-- <h3>Building relationships with chemistry.</h2> -->
@@ -62,7 +143,7 @@ include 'header.php';
                         <h3 class="text-center">HanaSaki 4T Motorcycle Oil</h3>
                             <div class="card card-blog">
                                 <a target="" href="Products.php#HanaSaki" class="header">    
-                                    <img src="assets/img/Products/None.jpg" class="image-header image-full">
+                                    <img src="assets/img/Products/HanaSaki_.jpg" class="image-header image-full">
                                 </a>
                             </div>
                     <br>

@@ -1071,8 +1071,8 @@ a,
 .section-our-team .text-area {
   padding-bottom: 0;
 }
-
-.filter {
+/* nil  */
+/* .filter {
   position: relative;
   height: 100%;
   color: #FFFFFF;
@@ -1088,7 +1088,7 @@ a,
   content: "";
   opacity: .7;
   background: #333;
-}
+} */
 .filter .title-area .description {
   color: #FFFFFF;
 }
@@ -1099,7 +1099,7 @@ a,
   border-color: #FFFFFF;
 }
 .filter.filter-color-black:before {
-  background: #333;
+  background: rgb(248, 248, 248);
 }
 .filter.filter-color-gold:before {
   background: #bd986c;

@@ -152,7 +152,7 @@ include 'header.php';
         <div class="section section-cards section-gray" style="background-color: #18426a;
             padding: 70px 0; color : white;">
                 <div class="title-area">
-                    <h2>Asphalt and Bitumen</h2>
+                    <h2>Asphalt / Bitumen</h2>
                     <div class="separator separator-danger">♦</div>
                     <p></p>
                 </div>

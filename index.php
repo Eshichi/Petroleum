@@ -5,14 +5,14 @@ include 'header.php';
     <div class="section section-header">
         <div class="parallax filter filter-color-red">
             <div class="image"
-                style="background-image: url('assets/img/header1.jpg')">
+                style="background-image: url('assets/img/header.jpg')">
             </div>
-            <div class="container" > 
+            <div class="container" style="color: black ; padding-bottom: 50px;" > 
                 <div class="content">
-                    <div class="title-area">
+                    <div class="title-area" style="color: black ;">
 
-                        <h1 class="title-modern">FS Petroleum <br> Plus Traders Inc.</h1>
-                        <h3>Building relationships with chemistry.</h2>
+                        <h1 class="title-modern" >FS Petroleum <br> Plus Traders Inc.</h1>
+                        <!-- <h3>Building relationships with chemistry.</h2> -->
                         <div class="separator line-separator">♦</div>
                     </div>
                 </div>
@@ -66,10 +66,10 @@ include 'header.php';
                                 </a>
                             </div>
                     <br>
-                    <h3 class="text-center">Oil</h3>
+                    <h3 class="text-center">Specialty Lubricants</h3>
                     <div class="card card-blog">
                         <a target="" href="Products.php#Oil" class="header">
-                        <img src="assets/img/Products/oil.JPG" class="image-header image-full">
+                        <img src="assets/img/Products/oil.jpg" class="image-header image-full">
                         </a>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 <?php
 include 'header.php';
 ?>
-
+    <link href="assets/css/gaia.1.css" rel="stylesheet"/>
     <div class="section section-header">
         <div class="parallax filter filter-color-red">
             <div class="image"

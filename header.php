@@ -33,7 +33,7 @@
                     <span class="icon-bar bar3"></span>
                 </button>
                 <a href="http://localhost:8080/Petroleum//" class="navbar-brand">
-                <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 115px; height: 115px;margin-top: -23px;">
+                <img src="assets/img/FSLogo_2.png" class="" sizes="130x130" style=" width: 130px; height: 130px;margin-top: -23px;">
                 </a>
             </div>
             <div class="collapse navbar-collapse">

@@ -176,7 +176,9 @@ include 'header.php';
                         </div>
                         
                         <div class="row">
-
+                            <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#">
+                                <h3 class="text-center" style="color: white;"></h3></a>
+                            </div>
                             <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#SS">
                                 <h3 class="text-center" style="color: white;">SS-1</h3></a>
                             </div>
@@ -184,10 +186,7 @@ include 'header.php';
                             <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#">
                                 <h3 class="text-center" style="color: white;"></h3></a>
                             </div>
-                            <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#60">
-                                <h3 class="text-center" style="color: white;">60/70</h3></a>
-                            </div>
-
+                            
                         
                         </div>
                         

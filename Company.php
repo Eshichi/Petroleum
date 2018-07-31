@@ -12,9 +12,19 @@ include 'header.php';
             <div class="container" > 
                 <div class="content">
                     <div class="title-area">
-                        <h1 class="title-modern">Something About Us</h1>
-                        <h3>The Company.</h2>
-                        <div class="separator line-separator">♦</div>
+                        
+                      
+                        
+
+                        <div class="title-area">
+                            <h2>OUR MISSION</h2>
+                            <div class="separator separator-danger">✻</div>
+                            <p class="description">We provide work environments where our employees can meet their potential and thrive in
+atmosphere of excellence. We strive to be the Industry standard in service to customers. We
+maintain a superior level of integrity in interactions with business partners and associates.
+We appreciate our achieved success and we conduct our business as model corporate
+citizens.</p>
+                        </div>
                     </div>
                 </div>
 
@@ -24,18 +34,14 @@ include 'header.php';
 
     <div class="section section-our-team-freebie" style="margin-top: -51px;">
         <div class="parallax filter filter-color-black">
-            <div class="image" style="background-image:url('assets/img/Refinery.jpg')">
+            <div class="image" style="background-image:url('assets/img/company2nd.jpg')">
             </div>
             <div class="container">
                 <div class="content">
                     <div class="row">
                         <div class="title-area">
 
-                             <div class="title-area">
-                                <h1 class="title-modern">Something About Us</h1>
-                                    <h3>The Company.</h3>
-                                <div class="separator line-separator">♦</div>
-                            </div>
+                            
                             <h2>COMPANY OVERVIEW</h2>
                             <div class="separator separator-danger">✻</div>
                             <p class="description">FS PETROLEUM PLUS TRADERS INC. was formed in October, 2012 to primarily address
@@ -52,15 +58,7 @@ quality fuels such as bunker fuel oils, special fuel oils, as well as automotive
 diesel oil.</p>
                         </div>
 
-                        <div class="title-area">
-                            <h2>OUR MISSION</h2>
-                            <div class="separator separator-danger">✻</div>
-                            <p class="description">We provide work environments where our employees can meet their potential and thrive in
-atmosphere of excellence. We strive to be the Industry standard in service to customers. We
-maintain a superior level of integrity in interactions with business partners and associates.
-We appreciate our achieved success and we conduct our business as model corporate
-citizens.</p>
-                        </div>
+                        
                         <div class="title-area">
                             <h2>QUALITY POLICY</h2>
                             <div class="separator separator-danger">✻</div>

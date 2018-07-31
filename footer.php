@@ -1,67 +1,38 @@
-    <footer class="footer footer-big footer-color-black" data-color="black">
+    <footer class="footer footer-color-black" data-color="black">
         <div class="container">
-            <div class="row">
-                <div class="col-md-2 col-sm-3">
-                    <div class="info">
-                        <h5 class="title">Company</h5>
-                        <nav>
-                            <ul>
-                                <li>
-                                    <a href="http://fspetroleum.com//">Products</a>
-                                </li>
-                                
-                                <li>
-                                    <a href="http://fspetroleum.com/Company.php">The Company</a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-                <div class="col-md-3 col-md-offset-1 col-sm-3">
-                    <div class="info">
-                        <h5 class="title"> Help and Support</h5>
-                         <nav>
-                            <ul>
-                                <li>
-                                    <a href="http://fspetroleum.com/Contact.php">Reach Us</a>
-
-                                </li>
-                            
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-                <div class="col-md-2 col-md-offset-1 col-sm-3">
-                    <div class="info">
-                        <h5 class="title">Follow us on</h5>
-                        <nav>
-                            <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/fs.petroleum" target="_blank" class="btn btn-social btn-facebook btn-simple">
-                                        <i class="fa fa-facebook-square"></i> Facebook
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/Fspetroleum" target="_blank" class="btn btn-social btn-twitter btn-simple">
-                                        <i class="fa fa-twitter"></i> Twitter
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.instagram.com/fspetroleum/?hl=en" target="_blank" class="btn btn-social btn-reddit btn-simple">
-                                        <i class="fa fa-instagram"></i> Instagram
-                                    </a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
+            <nav class="pull-left">
+                <ul>
+                    <li>
+                        <a href="http://localhost:8080/Petroleum/">Products</a>
+                    </li>
+                    
+                    <li>
+                        <a href="http://localhost:8080/Petroleum/Company.php">The Company</a>
+                    </li>
+                    <li>
+                        <a href="http://localhost:8080/Petroleum/Contact.php">Reach Us</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="social-area pull-right">
+                <a href="https://www.facebook.com/fs.petroleum" class="btn btn-social btn-facebook btn-simple">
+                    <i class="fa fa-facebook-square"></i>
+                </a>
+                <a href="https://twitter.com/Fspetroleum" class="btn btn-social btn-twitter btn-simple">
+                    <i class="fa fa-twitter"></i>
+                </a>
+                <a href="https://www.instagram.com/fspetroleum/?hl=en" class="btn btn-social btn-pinterest btn-simple">
+                    <i class="fa fa-instagram"></i>
+                </a>
             </div>
-            <hr>
             <div class="copyright">
-                 © <script> document.write(new Date().getFullYear()) </script> FS Petroleum, Developed by Nil Villanueva
+                 © <script> document.write(new Date().getFullYear()) </script> FS Petroleum, Developed by N.Villanueva
             </div>
         </div>
     </footer>
+    
+    
+
 
 </body>
 

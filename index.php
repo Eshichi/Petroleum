@@ -32,7 +32,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="http://localhost:8080/Petroleum/" class="navbar-brand">
+                <a href="http://fspetroleum.com/" class="navbar-brand">
                 <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 115px; height: 115px;margin-top: -23px;">
                 </a>
             </div>
@@ -40,20 +40,20 @@
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
 
-                                <a href="http://localhost:8080/Petroleum/">Products</a>
+                                <a href="http://fspetroleum.com/">Products</a>
                         </li>
                         <li>
-                                <a href="http://localhost:8080/Petroleum/Services.php">Services</a>
+                                <a href="http://fspetroleum.com/Services.php">Services</a>
                         </li>
                     
                     <li>
-                        <a href="http://localhost:8080/Petroleum/Company.php" >The Company</a>
+                        <a href="http://fspetroleum.com/Company.php" >The Company</a>
                     </li>
                     <li>
-                            <a href="http://localhost:8080/Petroleum/Career.php">Employment</a>
+                            <a href="http://fspetroleum.com/Career.php">Employment</a>
                     </li>
                     <li>
-                        <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
+                        <a href="http://fspetroleum.com/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>
                     </li>
                     
                     <li class="dropdown">
@@ -116,11 +116,19 @@
                 <div class="col-md-4">
                 
                      <h3 class="text-center">Nynas - All Transformer Oils</h3>
-                            <div class="card card-blog">
-                                <a target="" href="Products.php#Nynas" class="header">
-                                    <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
-                                </a>
-                            </div>
+                    <div class="card card-blog">
+                        <a target="" href="Products.php#Nynas" class="header">
+                            <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
+                        </a>
+                    </div>
+
+                    <br>
+                    <h3 class="text-center">Asphalt / Bitumen</h3>
+                    <div class="card card-blog">
+                        <a target="_blank" href="" class="header">
+                            <img src="assets/img/Products/bitu.jpg" class="image-header image-full">
+                        </a>
+                    </div>
                     
                     <!-- <br>
                     <h3 class="text-center">More Products</h3>
@@ -146,6 +154,22 @@
                                     <img src="assets/img/Products/HanaSaki_.jpg" class="image-header image-full">
                                 </a>
                             </div>
+                    <!-- <br>
+                    <h3 class="text-center">Specialty Lubricants</h3>
+                    <div class="card card-blog">
+                        <a target="" href="Products.php#Oil" class="header">
+                        <img src="assets/img/Products/oil.jpg" class="image-header image-full">
+                        </a>
+                    </div> -->
+                </div>
+                <div class="col-md-4">
+                    <h3 class="text-center">Kevlon Lubricants</h3>
+                    <div class="card card-blog">
+                         <a target="" href="Products.php#services" class="header">
+                            
+                            <img src="assets/img/Products/kevlogo.jpg" class="image-header image-full">
+                        </a>
+                    </div> 
                     <br>
                     <h3 class="text-center">Specialty Lubricants</h3>
                     <div class="card card-blog">
@@ -153,16 +177,6 @@
                         <img src="assets/img/Products/oil.jpg" class="image-header image-full">
                         </a>
                     </div>
-                </div>
-                <div class="col-md-4">
-                    <h3 class="text-center">Kevlon Lubricants</h3>
-                    <div class="card card-blog">
-                         <a target="" href="Products.php#services" class="header">
-                            
-                            <img src="assets/img/Products/None.jpg" class="image-header image-full">
-                        </a>
-                    </div> 
-
                     <!-- <br>
                     <h3 class="text-center">More Products</h3>
                     <div class="card card-blog">

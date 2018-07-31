@@ -32,7 +32,7 @@
                     <span class="icon-bar bar2"></span>
                     <span class="icon-bar bar3"></span>
                 </button>
-                <a href="http://localhost:8080/Petroleum/" class="navbar-brand">
+                <a href="http://localhost:8080/Petroleum//" class="navbar-brand">
                 <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 115px; height: 115px;margin-top: -23px;">
                 </a>
             </div>

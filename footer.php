@@ -7,11 +7,11 @@
                         <nav>
                             <ul>
                                 <li>
-                                    <a href="http://localhost:8080/Petroleum/">Products</a>
+                                    <a href="http://fspetroleum.com//">Products</a>
                                 </li>
                                 
                                 <li>
-                                    <a href="http://localhost:8080/Petroleum/Company.php">The Company</a>
+                                    <a href="http://fspetroleum.com/Company.php">The Company</a>
                                 </li>
                             </ul>
                         </nav>
@@ -23,7 +23,7 @@
                          <nav>
                             <ul>
                                 <li>
-                                    <a href="http://localhost:8080/Petroleum/Contact.php">Reach Us</a>
+                                    <a href="http://fspetroleum.com/Contact.php">Reach Us</a>
 
                                 </li>
                             

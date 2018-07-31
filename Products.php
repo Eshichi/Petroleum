@@ -160,6 +160,9 @@ include 'header.php';
                 <div class="container"> 
                     <div class="content">
                         <div class="row">
+                            <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#60">
+                                <h3 class="text-center" style="color: white;">60/70</h3></a>
+                            </div>
                             <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#Oxidized">
                                 <h3 class="text-center" style="color: white;">Oxidized Asphalt 115/15</h3></a>
                             </div>
@@ -168,16 +171,14 @@ include 'header.php';
                                 <h3 class="text-center" style="color: white;">MC-70</h3></a>
                             </div>
 
-                            <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#SS">
-                                <h3 class="text-center" style="color: white;">SS-1</h3></a>
-                            </div>
+                            
 
                         </div>
                         
                         <div class="row">
 
-                            <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#58">
-                                <h3 class="text-center" style="color: white;">58/100</h3></a>
+                            <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#SS">
+                                <h3 class="text-center" style="color: white;">SS-1</h3></a>
                             </div>
                             
                             <div class="col-md-4"><a target="" href="" class="header" data-toggle="modal" data-target="#">

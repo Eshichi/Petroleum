@@ -35,53 +35,45 @@ harmoniously toward common goals.</p>
                             <h2>Vacancy</h2>
                             <div class="separator separator-danger">♦</div>
                             <div class="row">
-                                <div class="col-md-12">
+                                <div class="col-md-6">
                                     <h2 class="text-left" style="color: white;">1 Accounting officer</h2>
                                     <h4 class="text-left" style="color: white;">Graduate of Accountancy or any related course</h4>
                                     <h4 class="text-left" style="color: white;">Will be assigned at Eligino Office</h4>
                                 </div>
-                            </div>
-                            <br>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <h2 class="text-left" style="color: white;">1 Purchasing Officer</h2>
-                                    <h4 class="text-left" style="color: white;">Graduate of any course.</h4>
-                                    <h4 class="text-left" style="color: white;">Will be assigned at Eligino Office</h4>
+                                    <h2 class="text-left" style="color: white;">2 Laboratory assistant</h2>
+                                    <h4 class="text-left" style="color: white;">graduate of any course related lab science</h4>
+                                    <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
+                                <div class="col-md-6">
                                 </div>
                             </div>
                             <br>
                             <div class="row">
-                                <div class="col-md-12">
+                                <div class="col-md-6">
+                                    <h2 class="text-left" style="color: white;">1 Purchasing Officer</h2>
+                                    <h4 class="text-left" style="color: white;">Graduate of any course.</h4>
+                                    <h4 class="text-left" style="color: white;">Will be assigned at Eligino Office</h4>
+                                </div>
+                                    <h2 class="text-left" style="color: white;">1 Forklift Operator</h2>
+                                    <h4 class="text-left" style="color: white;">with formal education in operating forklift.</h4>
+                                    <h4 class="text-left" style="color: white;">TESDA certified</h4>
+                                    <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
+                                <div class="col-md-6">
+                                </div>
+                            </div>
+                            <br>
+                            <div class="row">
+                                <div class="col-md-6">
                                     <h2 class="text-left" style="color: white;">1 Logistic Officer</h2>
                                     <h4 class="text-left" style="color: white;">Graduate of any course</h4>
                                     <h4 class="text-left" style="color: white;">with experience in inventory is advantage.</h4>
                                     <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
                                 </div>
-                            </div>
-                            <br>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <h2 class="text-left" style="color: white;">2 Laboratory assistant</h2>
-                                    <h4 class="text-left" style="color: white;">graduate of any course related lab science</h4>
-                                    <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
-                                </div>
-                            </div>
-                            <br>
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <h2 class="text-left" style="color: white;">1 Forklift Operator</h2>
-                                    <h4 class="text-left" style="color: white;">with formal education in operating forklift.</h4>
-                                    <h4 class="text-left" style="color: white;">TESDA certified</h4>
-                                    <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
-                                </div>
-                            </div>
-                            <br>
-                            <div class="row">
-                                <div class="col-md-12">
+                                <div class="col-md-6">
                                     <h2 class="text-left" style="color: white;">Production Helper</h2>
                                     <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
                                 </div>
                             </div>
+                            
                     </div>
                     <div class="button-get-started">
                         <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>

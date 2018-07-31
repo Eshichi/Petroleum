@@ -39,7 +39,6 @@
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
-
                                 <a href="http://localhost:8080/Petroleum/">Products</a>
                         </li>
                         <li>

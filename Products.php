@@ -13,7 +13,7 @@ include 'header.php';
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-md-offset-2">
                     
                         <h3 class="text-center">NYTRO GEMINI X </h3>
                         <div class="card card-blog">
@@ -75,7 +75,7 @@ include 'header.php';
             </div>
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 col-md-offset-4">
                     
                         <h3 class="text-center">HanaSaki MV3000 4T Motorcycle Oil SAE 10W40  </h3>
                         <div class="card card-blog">
@@ -83,6 +83,43 @@ include 'header.php';
                                 <img src="assets/img/Products/HanaSaki_.jpg" class="image-header image-full" >
                             </a>
                         </div>
+                        
+                        <!-- <br>
+                        <h3 class="text-center">More Products</h3>
+                        <div class="card card-blog">
+                            <a target="_blank" href="" class="header">
+                                <img src="" class="image-header image-full">
+                            </a>
+                        </div> -->
+
+                    
+                    </div>
+                
+                </div>
+            </div>
+    </div>
+    </section>
+
+
+    <section id="Kevlon">
+    <div class="section section-cards section-gray" style="background-color: #18426a;
+        padding: 70px 0; color : white;">
+            <div class="title-area">
+                <h2>Kevlon</h2>
+                <div class="separator separator-danger">♦</div>
+                <p></p>
+                <!-- <p class="description" style="color: white;">Short information for the products</p> -->
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-md-offset-3">
+                    
+                        
+                        
+                            <a target="" href="" class="header" data-toggle="modal" data-target="#kevlon">
+                                <img src="assets/img/Products/menu.jpg" class="image-header image-full" >
+                            </a>
+                       
                         
                         <!-- <br>
                         <h3 class="text-center">More Products</h3>

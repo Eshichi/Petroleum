@@ -1,6 +1,14 @@
+<style>
+#Services
+{
+    color:black;
+}
+</style>
 <?php
 include 'header.php';
 ?>
+
+
 
     <div class="section section-header">
         <div class="parallax filter filter-color-red">

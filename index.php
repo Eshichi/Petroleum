@@ -33,14 +33,14 @@
                     <span class="icon-bar bar3"></span>
                 </button>
                 <a href="http://localhost:8080/Petroleum/" class="navbar-brand">
-                <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 115px; height: 115px;margin-top: -23px;">
+                <img src="assets/img/FSLogo_2.png" class="" sizes="116x116" style=" width: 130px; height: 130px;margin-top: -23px;">
                 </a>
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
                         <li>
 
-                                <a href="http://localhost:8080/Petroleum/">Products</a>
+                                <a  style="color:black;"href="http://localhost:8080/Petroleum/">Products</a>
                         </li>
                         <li>
                                 <a href="http://localhost:8080/Petroleum/Services.php">Services</a>
@@ -165,7 +165,7 @@
                 <div class="col-md-4">
                     <h3 class="text-center">Kevlon Lubricants</h3>
                     <div class="card card-blog">
-                         <a target="" href="Products.php#services" class="header">
+                         <a target="" href="Products.php#Kevlon" class="header">
                             
                             <img src="assets/img/Products/kevlogo.jpg" class="image-header image-full">
                         </a>

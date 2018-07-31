@@ -1,3 +1,9 @@
+<style>
+#Company
+{
+    color:black;
+}
+</style>
 <?php
 include 'header.php';
 ?>

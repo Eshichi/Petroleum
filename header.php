@@ -38,18 +38,18 @@
             </div>
             <div class="collapse navbar-collapse">
                 <ul class="nav navbar-nav navbar-right navbar-uppercase">
-                        <li>
-                                <a href="http://localhost:8080/Petroleum/">Products</a>
-                        </li>
-                        <li>
-                                <a href="http://localhost:8080/Petroleum/Services.php">Services</a>
-                        </li>
-                    
                     <li>
-                        <a href="http://localhost:8080/Petroleum/Company.php" >The Company</a>
+                            <a href="http://localhost:8080/Petroleum/">Products</a>
                     </li>
                     <li>
-                            <a href="http://localhost:8080/Petroleum/Career.php">Employment</a>
+                            <a id="Services" href="http://localhost:8080/Petroleum/Services.php">Services</a>
+                    </li>
+                    
+                    <li>
+                        <a id="Company" href="http://localhost:8080/Petroleum/Company.php" >The Company</a>
+                    </li>
+                    <li>
+                            <a id="Employment" href="http://localhost:8080/Petroleum/Career.php">Employment</a>
                     </li>
                     <li>
                         <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill">Reach Us</a>

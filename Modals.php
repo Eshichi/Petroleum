@@ -2,7 +2,7 @@
     <div class="modal-dialog">
     
       <!-- Modal content-->
-      <div class="modal-content">
+      <div class="modal-content ">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
           <h4 class="modal-title">NYTRO GEMINI X (IEC 60296, ED. 4) - HIGH GRADE</h4>
@@ -52,6 +52,26 @@
         <div class="modal-body">
           <p>HanaSaki MV3000 4T Motorcycle Oil SAE 10W40 is a superior quality multigrade engine oil specially formulated with advanced Japanese technology for use in 4 – Stroke motorcycle engines. It provides outstanding engine performance under all conditions and reduces overall fuel consumption with excellent anti-wear properties. HanaSaki MV3000 4T Motorcycle Oil SAE 10W40 meets and exceeds the performance requirements of: JASO MA, API: SJ
 </p>
+        </div>
+        <div class="modal-footer">
+          <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>
+       </div>
+      </div>
+      
+    </div>
+  </div>
+
+  <div class="modal fade" id="kevlon" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Kevlon</h4>
+        </div>
+        <div class="modal-body">
+          <p>For more information, please contact us.</p>
         </div>
         <div class="modal-footer">
           <a href="http://localhost:8080/Petroleum/Contact.php" class="btn btn-danger btn-fill btn-lg">Reach Us</a>

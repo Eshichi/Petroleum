@@ -59,11 +59,12 @@ harmoniously toward common goals.</p>
                                     <h4 class="text-left" style="color: white;">Graduate of any course.</h4>
                                     <h4 class="text-left" style="color: white;">Will be assigned at Eligino Office</h4>
                                 </div>
+                                <div class="col-md-6">
                                     <h2 class="text-left" style="color: white;">1 Forklift Operator</h2>
                                     <h4 class="text-left" style="color: white;">with formal education in operating forklift.</h4>
                                     <h4 class="text-left" style="color: white;">TESDA certified</h4>
                                     <h4 class="text-left" style="color: white;">Will be assigned at Meycauayan</h4>
-                                <div class="col-md-6">
+                                
                                 </div>
                             </div>
                             <br>

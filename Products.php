@@ -111,7 +111,7 @@ include 'header.php';
                 <!-- <p class="description" style="color: white;">Short information for the products</p> -->
             </div>
             <div class="container">
-                <div class="row">
+                <div class="row" style="padding-right: 160px;">
                     <div class="col-md-4 col-md-offset-3">
                     
                         

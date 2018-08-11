@@ -115,7 +115,7 @@
             <div class="row">
                 <div class="col-md-4">
                 
-                     <h3 class="text-center">Nynas - All Transformer Oils</h3>
+                     <h3 class="text-center">Nynas - Transformer Oils</h3>
                     <div class="card card-blog">
                         <a target="" href="Products.php#Nynas" class="header">
                             <img src="assets/img/Products/Nynas.jpg" class="image-header image-full">
@@ -171,7 +171,7 @@
                         </a>
                     </div> 
                     <br>
-                    <h3 class="text-center">Other Specialty Lubricants</h3>
+                    <h3 class="text-center">Specialty Lubricants</h3>
                     <div class="card card-blog">
                         <a target="" href="Products.php#Oil" class="header">
                         <img src="assets/img/Products/oil.jpg" class="image-header image-full">
